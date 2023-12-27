@@ -10,4 +10,9 @@ I'm also working on creating a custom HTML tag for incorporation into other webs
 
 Explore the Thalafier application [here](https://thalafier.vercel.app/).
 
+## Sample 
+
+![Example Image](/Output/thalafied1.png)
+
+
 Feel free to contribute and provide feedback!
