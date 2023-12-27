@@ -126,8 +126,8 @@ class TextProcessor extends HTMLElement {
       filename = 'gambhir97';
       audioFileName = 'moye';
     }
-    const newVideoSource = `${filename}.mp4`;
-    const audioSource = `${audioFileName}.mp3`;
+    const newVideoSource = `/media/${filename}.mp4`;
+    const audioSource = `/media/${audioFileName}.mp3`;
 
     return { updatedValue, newVideoSource, audioSource };
   }
