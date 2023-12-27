@@ -13,6 +13,7 @@ Explore the Thalafier application [here](https://thalafier.vercel.app/).
 ## Sample 
 
 ![Example Image](/Output/thalafied1.png)
+![Example Image](/Output/thalafied2.png)
 
 
 Feel free to contribute and provide feedback!
